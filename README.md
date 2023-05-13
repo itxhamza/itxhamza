@@ -1,20 +1,12 @@
-<div style="width: 100%;display: flex;align-items: center;justify-content: space-between;">
 <div style="display: flex;flex: 1;">
 <h2>Hi there</h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-bottom: 10px;margin-left: 10px;">
 </div>
 
-<div style="display: flex;flex: 1;width: 100%;justify-content: flex-end;">
-<a href="https://linkedin.com/in/itxhamza/"><img src="https://img.shields.io/badge/-Hamza Javed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a><img  src="https://komarev.com/ghpvc/?username=itxhamza&color=0e75b6&style=plastic"></a>
+<a href="https://www.linkedin.com/in/hamza-javed-a04bab244/"><img src="https://img.shields.io/badge/-Hamza Javed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itxhamzajaved@gmail.com" style="margin-left: 7px;"><img src="https://img.shields.io/badge/-itxhamzajaved@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</div>
 
-</div>
-
-<h1 style="display: flex;align-items:flex-end; justify-content: space-between;">
-<div style="text-align: left; display: inline-block;width: 100%;"><span>💫 About Me:</span></div>
-<div style="text-align: right; display: inline-block;width: 100%;"><img src="https://komarev.com/ghpvc/?username=itxhamza&color=0e75b6&style=plastic"></div>
-
-</h1>
+<h1>💫 About Me:</h1>
 
 ```
 Over 4 years of strong experience as Full Stack web developer with solid understanding of front-end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN Stack with vast experience in building Web Applications.
@@ -33,6 +25,7 @@ With a commitment to excellence and a dedication to staying ahead of the curve i
 
 🏆 Achievements:
 Throughout my career, I have earned several awards and accolades for my work in the software engineering field. My continues to strive for excellence in my work and i am dedicated to pushing the boundaries of what's possible in the world of software engineering.
+
 ```
 
 # 💻 Tech Stack:
@@ -62,10 +55,10 @@ Throughout my career, I have earned several awards and accolades for my work in 
 ![Electron Js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-%23000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
-<!-- 
+<!--
 # 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itxhamza&&show_icons=true&count_private=true&hide_border=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itxhamza&&show_icons=true&count_private=true&hide_border=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itxhamza&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/itxhamza)
@@ -83,3 +76,7 @@ Throughout my career, I have earned several awards and accolades for my work in 
 ### Reach me out
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+```
+
+```
