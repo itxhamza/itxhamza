@@ -1,12 +1,15 @@
-<div style="display: flex;flex: 1;">
-<h2>Hi there</h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-bottom: 10px;margin-left: 10px;">
-</div>
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+# 💫 About Me:
+
+<div align="right">
+<br />
 <a><img  src="https://komarev.com/ghpvc/?username=itxhamza&color=0e75b6&style=plastic"></a>
 <a href="https://www.linkedin.com/in/hamza-javed-a04bab244/"><img src="https://img.shields.io/badge/-Hamza Javed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itxhamzajaved@gmail.com" style="margin-left: 7px;"><img src="https://img.shields.io/badge/-itxhamzajaved@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<h1>💫 About Me:</h1>
+</div>
+
 
 ```
 Over 4 years of strong experience as Full Stack web developer with solid understanding of front-end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN Stack with vast experience in building Web Applications.
@@ -27,6 +30,7 @@ With a commitment to excellence and a dedication to staying ahead of the curve i
 Throughout my career, I have earned several awards and accolades for my work in the software engineering field. My continues to strive for excellence in my work and i am dedicated to pushing the boundaries of what's possible in the world of software engineering.
 
 ```
+---
 
 # 💻 Tech Stack:
 
@@ -55,6 +59,7 @@ Throughout my career, I have earned several awards and accolades for my work in 
 ![Electron Js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-%23000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
+
 <!--
 # 📊 GitHub Stats:
 
@@ -76,7 +81,3 @@ Throughout my career, I have earned several awards and accolades for my work in 
 ### Reach me out
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-```
-
-```
