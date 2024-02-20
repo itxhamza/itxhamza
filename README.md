@@ -12,7 +12,7 @@
 
 
 ```
-Over 4 years of strong experience as Full Stack web developer with solid understanding of front-end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN Stack with vast experience in building Web Applications.
+Over 7 years of strong experience as Full Stack web developer with solid understanding of front-end technologies, MVC frameworks, Restful web services and Data Base designing. Strong knowledge in MERN Stack with vast experience in building Web Applications.
 
 👨‍💻 Professional Experience:
 I am highly skilled software engineer with a passion for innovation and creativity. I am specialized in developing innovative software solutions that help businesses achieve their goals.
